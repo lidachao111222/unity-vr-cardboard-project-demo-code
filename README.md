@@ -10,6 +10,9 @@ This is a demo. Please follow the instructions.
 ## Important
 Remember to install `Google Cardboard XR Plugin for Unity` in the package manager in Unity, I am using the version 1.7.
 
+
+![How to use it](img.png)
+
 Cheers, happy coding.
 Chao
 
